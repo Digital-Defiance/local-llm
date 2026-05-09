@@ -1,0 +1,7 @@
+qdrant_storage
+local-llm.env
+.env
+
+
+#Ignore cursor AI rules
+.cursor/rules/codacy.mdc
